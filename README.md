@@ -13,13 +13,13 @@ This github archive contains Python Codes, Jupyter Notebooks, and links to MP4 r
 Installation of a Python environment with Open3D is described in the PDF. This assumes you have worked with Python before.
 
 - [LidarWorkshop_May2022_Python_Software.pdf](0_Installation/LidarWorkshop_May2022_Python_Software.pdf)
-- MP4 Recording: [YouTube](https://youtu.be/6VLpKg2cBwI) [MP4 higher resolution](https://www.dropbox.com/s/ubcso65wc75gf35/Installation_Python_PointClouds.mp4?dl=0)
+- MP4 Recording: [[YouTube]](https://youtu.be/6VLpKg2cBwI) [[MP4 higher resolution]](https://www.dropbox.com/s/ubcso65wc75gf35/Installation_Python_PointClouds.mp4?dl=0)
 
 ### Visualization
 Visualization of LAZ and LAS files in Open3D and some applications showing 3D point cloud density calculations in a Jupyter Notebook.
 
 - Jupyter Notebook: [PointCloud_Visualization_with_Open3D.ipynb](1_Visualization/PointCloud_Visualization_with_Open3D.ipynb)
-- MP4 Recording of Jupyter Notebook walk through: [YouTube](https://youtu.be/GUWoghjuyYo) [MP4 higher resolution](https://www.dropbox.com/s/hcrx15zqr0201fo/Python_Open3D_Visualization.mp4?dl=0)
+- MP4 Recording of Jupyter Notebook walk through: [[YouTube]](https://youtu.be/GUWoghjuyYo) [[MP4 higher resolution]](https://www.dropbox.com/s/hcrx15zqr0201fo/Python_Open3D_Visualization.mp4?dl=0)
 - Example Dataset used in Jupyter Notebook: ALS data of Campus Golm [link](https://www.dropbox.com/s/luak66coy8sl22l/ALS2018_UP_Golm_06May2018.laz?dl=0)
 
 ### Point Cloud Alignment
