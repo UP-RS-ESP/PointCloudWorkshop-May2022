@@ -9,6 +9,11 @@
 
 This github archive contains Python Codes, Jupyter Notebooks, and links to MP4 recordings.
 
+### Introduction to Environmental Point Clouds - Videos
+
+- Basic Concepts of Lidar: [[YouTube]](https://youtu.be/vT17XlZGOB4) [[MP4 higher resolution]](https://www.dropbox.com/s/omvvdkhgova8s70/LidarIntro.mp4?dl=0)
+- Structure from Motion Introduction: [[YouTube]](https://youtu.be/W_aqUlwJVQw) [[MP4 higher resolution]](https://www.dropbox.com/s/hw5ysfel5367t64/SfMIntro.mp4?dl=0)
+
 ### Installation
 Installation of a Python environment with Open3D is described in the PDF. This assumes you have worked with Python before.
 
