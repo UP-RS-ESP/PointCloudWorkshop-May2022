@@ -33,7 +33,7 @@ Several short tutorial about point-cloud alignment methods and their application
 - Jupyter Notebook **Introduction to Distance Metrics between point clouds** [Distance_metrics_between_pointclouds.ipynb](2_Alignment/Distance_metrics_between_pointclouds.ipynb)
   - MP4 Recording of Jupyter Notebook **Introduction to Distance Metrics between point clouds** walk through: [[YouTube]](https://youtu.be/AKZiEqAvCdc) [[MP4 higher resolution]](https://www.dropbox.com/s/msgt26v5uc1g1mb/Python_Distance_Metrics_PointClouds.mp4?dl=0)
 - Jupyter Notebook **ICP with SVD for a Gaussian Hill** [ICP_SVD_Gaussian_hill.ipynb](2_Alignment/ICP_SVD_Gaussian_hill.ipynb)
-  - MP4 recording of Jupyter Notebook **ICP with SVD for a Gaussian Hill** [[MP4 higher resolution]](https://www.dropbox.com/s/0h52ypp0hp9gctp/ICP_SVD_Gaussian_hill.mp4?dl=0)
+  - MP4 recording of Jupyter Notebook **ICP with SVD for a Gaussian Hill** [[YouTube]](https://youtu.be/SGoPqV8cEBQ) [[MP4 higher resolution]](https://www.dropbox.com/s/0h52ypp0hp9gctp/ICP_SVD_Gaussian_hill.mp4?dl=0)
 - Jupyter Notebook **Global and Fine Registration** [ICP_Registration_ALS_UAV.ipynb](2_Alignment/ICP_Registration_ALS_UAV.ipynb)
   - MP4 recording of Jupyter Notebook **Global and Fine Registration** walk through: [[YouTube]](https://youtu.be/Erhv59gSZ-8) [[MP4 higher resolution]](https://www.dropbox.com/s/5ebfim0cvklqq5m/Python_Open3D_ICP_alignment.mp4?dl=0)
   - Example Dataset (used in Notebook **Global and Fine Registration**): ALS data of Campus Golm [link](https://www.dropbox.com/s/luak66coy8sl22l/ALS2018_UP_Golm_06May2018.laz?dl=0)
